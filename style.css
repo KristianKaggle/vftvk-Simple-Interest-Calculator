@@ -1,11 +1,23 @@
-body {background-color:black;font-family:arial;color:white}
-h1{color:grey;font-family:verdana}
+body {
+    background-color:black;
+    font-family:arial;
+    color:white
+    }
+h1{
+    color:grey;
+    font-family:verdana
+    text-align:center}
 
 .maindiv{
     background-color: white;
     color: black;
-    width: 300px;
+    width: 450px;
     padding: 20px;
     border-radius: 25px;
-    align: center
+    align: center;
+}
+
+.subdiv{
+    padding: 0 50px 0 50px;
+    align: center;
 }
